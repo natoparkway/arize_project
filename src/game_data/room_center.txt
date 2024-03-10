@@ -1,0 +1,11 @@
+Center Room
+
+This room is where the player character begins their journey.
+
+The room is poorly lit by a skylight 50 feet above the floor. There are a few pieces of shoddy furiniture - a desk, a cupboard and an old lamp. 
+
+On each wall is a candlestick. When that candlestick is pulled, a door opens to the room in that direction. For example, the candlestick on the northernmost wall opens a door to the north room. As stated in your instructions, that room is described by "room_north.txt."
+
+There is a box of matchsticks with two matches on the desk.
+
+There is a rusty dagger and quart of oil in the cupboard.
